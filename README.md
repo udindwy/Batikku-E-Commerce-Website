@@ -1,25 +1,25 @@
 # Batikku E-Commerce Website
 
-Batikku E-Commerce Website adalah situs web e-commerce yang menawarkan produk batik berkualitas. Dibangun dengan HTML, CSS, dan JavaScript, situs ini menyediakan berbagai fitur untuk memudahkan pengguna dalam berbelanja produk batik.
+Batikku E-Commerce Website is an e-commerce platform offering high-quality batik products. Built with HTML, CSS, and JavaScript, this site provides various features to facilitate users in shopping for batik products.
 
-## Fitur Utama
-- Tampilan produk
-- Keranjang belanja
-- Pencarian produk
-- Halaman detail produk
-- Responsif pada perangkat berbeda
+## Main Features
+- Product display
+- Shopping cart
+- Product search
+- Product detail pages
+- Responsive design for different devices
 
-## Teknologi yang Digunakan
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Cara Menjalankan
-1. Kloning repositori.
-2. Buka file `index.html` di browser.
+## How to Run
+1. Clone the repository.
+2. Open the `index.html` file in your browser.
 
-## Kontribusi
-Kontribusi dalam bentuk saran dan perbaikan sangat diapresiasi. Ajukan pull request untuk berkontribusi.
+## Contribution
+Contributions in the form of suggestions and improvements are highly appreciated. Please submit a pull request to contribute.
 
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+## License
+This project is licensed under the MIT License.
