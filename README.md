@@ -21,5 +21,3 @@ Batikku E-Commerce Website is an e-commerce platform offering high-quality batik
 ## Contribution
 Contributions in the form of suggestions and improvements are highly appreciated. Please submit a pull request to contribute.
 
-## License
-This project is licensed under the MIT License.
